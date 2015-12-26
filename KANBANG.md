@@ -24,7 +24,7 @@ Goldie Lin	每週三句
 ```
 deanboole	ch9-1
 colorbook	休息中	
-klaywang03	
+brycewang03	
 Rslw		ch3
 Goldie Lin	ch8-1..ch8-4
 ```
