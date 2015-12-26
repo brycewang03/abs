@@ -14,7 +14,7 @@ by John F. Kennedy
 ```
 deanboole	每天一句
 colorbook	每週三句
-klaywang03	
+brycewang03	
 Rslw		每天一句
 Goldie Lin	每週三句
 ```
